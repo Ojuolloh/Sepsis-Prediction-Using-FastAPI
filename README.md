@@ -1,9 +1,8 @@
 # Sepsis-Classification-ML-Project-with-FAST-API-Integration
 This repository houses a machine learning project focused on the early detection and classification of sepsis, and integrating the model into a web application using FAST API.
 
-<p align="center">
-  <img src="/C:/Users/frankline.oduor/Pictures/Screenshots/sepsis.jpg" width="800">
-</p>
+![image](https://github.com/user-attachments/assets/8fe0f43c-1a60-4b1f-9f18-d73ff39ec2b0)
+
 
 This project aims to provide a streamlined tool for healthcare professionals to predict sepsis cases quickly and effectively.
 
@@ -15,6 +14,17 @@ This project aims to provide a streamlined tool for healthcare professionals to 
 **iii. FAST API Integration:** I've seamlessly integrated the trained machine learning model into an API using FAST API. The API allows healthcare professionals to input patient data and receive instant predictions regarding sepsis risk.
 
 **iv. Docker Containerization:** I deployed the application to Docker
+
+## FastAPI Interface
+After clicking on the link to the working FastAPI, click on "Try It Out", add the patient's medical details, and click on the **"EXECUTE"** button.
+![image](https://github.com/user-attachments/assets/1aaa6704-f504-4d78-8376-ca1501a8ca6c)
+
+### Before Prediction
+![image](https://github.com/user-attachments/assets/81e7c1aa-4f0c-4c53-8f5b-8f5c08f8ee43)
+
+### After Prediction
+![image](https://github.com/user-attachments/assets/7a934ea8-c7e2-424d-9d75-dc7b15a95973)
+
 
 # Project Setup:
 To set up the project environment, follow these steps:
